@@ -3,62 +3,19 @@ name: Deploy
 on:
   workflow_dispatch:
   push:
-    branches:
-      - master
-    paths-ignore:
-      - '**.md'
   pull_request:
-    branches:
-      - master
-    paths-ignore:
-      - '**.md'
-  schedule:
-    # every 6 hours = 4 times a day
-    - cron: '0 */6 * * *'
 
 jobs:
   deploy:
-    # do not run the sheduled run on forks
-    if: github.event != 'schedule' || github.repository_owner == 'Cockatrice'
-
     runs-on: ubuntu-latest
 
     env:
       DEPLOY: ${{github.ref == 'refs/heads/master'}}
-      OUTPUT_PATH: out
+      REF: ${{github.ref}}
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v2
-
-      - name: Checkout output branch
-        if: env.DEPLOY
-        uses: actions/checkout@v2
-        with:
-          ref: files
-          fetch-depth: 0
-          path: ${{env.OUTPUT_PATH}}
-
-      - name: Install requirements using pip
-        shell: bash
-        env:
-          CFLAGS: '-O0'
-        run: |
-          python3 -m pip install --upgrade pip setuptools
-          python3 -m pip install --requirement requirements.txt
-
-      - name: Run script
-        id: run
-        shell: bash
-        run: python3 -m magic_spoiler
-
-      - name: Deploy changes
-        if: env.DEPLOY && steps.run.outputs.deploy != null
-        shell: bash
-        working-directory: ${{env.OUTPUT_PATH}}
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
-          git commit -m "Deploy: $GITHUB_SHA"
-          git push
+      - run: |
+          echo $DEPLOY
+          echo $REF
+          echo $GITHUB_REF
+          echo ${{github.ref}}
