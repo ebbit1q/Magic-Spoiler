@@ -586,6 +586,70 @@
         "url": "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/8/b851c41b-ed73-4ee4-9063-544f97f35f67.jpg"
     },
     {
+        "artist": "Nicola Leonard",
+        "cmc": 4.0,
+        "colorIdentity": [
+            "U"
+        ],
+        "colors": [
+            "U"
+        ],
+        "flavor": null,
+        "layout": "",
+        "loyalty": null,
+        "mana_cost": "{3}{U}",
+        "multiverseId": null,
+        "name": "Inga Rune-Eyes",
+        "names": null,
+        "number": "304",
+        "power": "3",
+        "rarity": "Uncommon",
+        "subTypes": [
+            "Human",
+            "Wizard"
+        ],
+        "superTypes": [
+            "Legendary"
+        ],
+        "text": "When Inga Rune-Eyes enters the battlefield, scry 3.\nWhen Inga Rune-Eyes dies, draw three cards if three or more creatures died this turn.",
+        "toughness": "3",
+        "type": "Legendary Creature - Human Wizard",
+        "types": " Creature ",
+        "url": "https://c1.scryfall.com/file/scryfall-cards/normal/front/d/2/d2d1b1a2-3861-4fbb-955b-4f3f8fcca9a7.jpg"
+    },
+    {
+        "artist": "Bram Sels",
+        "cmc": 4.0,
+        "colorIdentity": [
+            "U"
+        ],
+        "colors": [
+            "U"
+        ],
+        "flavor": "Each path ever charted by an Omenseeker is etched into her eyes.",
+        "layout": "",
+        "loyalty": null,
+        "mana_cost": "{3}{U}",
+        "multiverseId": null,
+        "name": "Inga Rune-Eyes",
+        "names": null,
+        "number": "64",
+        "power": "3",
+        "rarity": "Uncommon",
+        "subTypes": [
+            "Human",
+            "Wizard"
+        ],
+        "superTypes": [
+            "Legendary"
+        ],
+        "text": "When Inga Rune-Eyes enters the battlefield, scry 3.\nWhen Inga Rune-Eyes dies, draw three cards if three or more creatures died this turn.",
+        "toughness": "3",
+        "type": "Legendary Creature - Human Wizard",
+        "types": " Creature ",
+        "url": "https://c1.scryfall.com/file/scryfall-cards/normal/front/6/2/62a6f095-5beb-42a8-af8f-d40eef27150e.jpg"
+    },
+    {
         "artist": "Jason Felix",
         "cmc": 2.0,
         "colorIdentity": [
@@ -681,6 +745,70 @@
         "type": "Legendary Planeswalker - Kaya",
         "types": " Planeswalker ",
         "url": "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/5/35e3a516-2989-4cac-892f-deb3d754ba7d.jpg"
+    },
+    {
+        "artist": "Bram Sels",
+        "cmc": 2.0,
+        "colorIdentity": [
+            "R",
+            "W"
+        ],
+        "colors": [
+            "R",
+            "W"
+        ],
+        "flavor": "Using trite from a fallen Cosmos monster, Koll forged a weapon to awe Halvar himself.",
+        "layout": "",
+        "loyalty": null,
+        "mana_cost": "{R}{W}",
+        "multiverseId": null,
+        "name": "Koll, the Forgemaster",
+        "names": null,
+        "number": "220",
+        "power": "2",
+        "rarity": "Common",
+        "subTypes": [
+            "Dwarf",
+            "Cleric"
+        ],
+        "superTypes": [],
+        "text": "Whenever another nontoken creature you control dies, if it was enchanted or equipped, return it to its owner's hand.\nCreature tokens you control that are enchanted or equipped get +1/+1.",
+        "toughness": "2",
+        "type": "Legendart Creature - Dwarf Cleric",
+        "types": "Legendart Creature ",
+        "url": "https://c1.scryfall.com/file/scryfall-cards/normal/front/2/2/22f68b53-0cf7-434d-9da5-1d18c0828a46.jpg"
+    },
+    {
+        "artist": "Nico Delort",
+        "cmc": 2.0,
+        "colorIdentity": [
+            "R",
+            "W"
+        ],
+        "colors": [
+            "R",
+            "W"
+        ],
+        "flavor": null,
+        "layout": "",
+        "loyalty": null,
+        "mana_cost": "{R}{W}",
+        "multiverseId": null,
+        "name": "Koll, the Forgemaster",
+        "names": null,
+        "number": "325",
+        "power": "2",
+        "rarity": "Rare",
+        "subTypes": [
+            "Dwarf",
+            "Cleric"
+        ],
+        "superTypes": [],
+        "text": "Whenever another nontoken creature you control dies, if it was enchanted or equipped, return it to its owner's hand.\nCreature tokens you control that are enchanted or equipped get +1/+1.",
+        "toughness": "2",
+        "type": "Legendart Creature - Dwarf Cleric",
+        "types": "Legendart Creature ",
+        "url": "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/7/37533179-8e58-40bc-af16-0d2c58b773ba.jpg"
     },
     {
         "artist": "Slawomir Maniak",
@@ -811,6 +939,66 @@
         "type": "Legendary Planeswalker - Niko",
         "types": " Planeswalker ",
         "url": "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/7/974a54b8-4f76-45db-a2f3-b2ed28a16cac.jpg"
+    },
+    {
+        "artist": "Jesper Ejsing",
+        "cmc": 3.0,
+        "colorIdentity": [
+            "G"
+        ],
+        "colors": [
+            "G"
+        ],
+        "flavor": null,
+        "layout": "",
+        "loyalty": null,
+        "mana_cost": "{G}{G}{G}",
+        "multiverseId": null,
+        "name": "Old-Growth Troll",
+        "names": null,
+        "number": "185",
+        "power": "4",
+        "rarity": "Rare",
+        "subTypes": [
+            "Troll",
+            "Warrior"
+        ],
+        "superTypes": [],
+        "text": "Trample\nWhen Old-Growth Troll dies, if it was a creature, return it to the battlefield. It's an Aura enchantment with enchant Forest you control and \"Enchanted Forest has '{T}: Add {G}{G}' and '{1}, {T}, Sacrifice this land: Create a 4/4 green Troll Warrior creature token with trample.'\"",
+        "toughness": "4",
+        "type": "Creature - Troll Warrior",
+        "types": "Creature ",
+        "url": "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/7/b759b0f6-342c-4bba-89f1-8451835d8c45.jpg"
+    },
+    {
+        "artist": "Jesper Ejsing",
+        "cmc": 3.0,
+        "colorIdentity": [
+            "G"
+        ],
+        "colors": [
+            "G"
+        ],
+        "flavor": null,
+        "layout": "",
+        "loyalty": null,
+        "mana_cost": "{G}{G}{G}",
+        "multiverseId": null,
+        "name": "Old-Growth Troll",
+        "names": null,
+        "number": "365",
+        "power": "4",
+        "rarity": "Rare",
+        "subTypes": [
+            "Troll",
+            "Warrior"
+        ],
+        "superTypes": [],
+        "text": "Trample\nWhen Old-Growth Troll dies, if it was a creature, return it to the battlefield. It's an Aura enchantment with enchant Forest you control and \"Enchanted Forest has '{T}: Add {G}{G}' and '{1}, {T}, Sacrifice this land: Create a 4/4 green Troll Warrior creature token with trample.'\"",
+        "toughness": "4",
+        "type": "Creature - Troll Warrior",
+        "types": "Creature ",
+        "url": "https://c2.scryfall.com/file/scryfall-errors/soon.jpg"
     },
     {
         "artist": "Piotr Dura",
@@ -1073,6 +1261,70 @@
         "url": "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/d/3d9d840e-1f13-44e3-a4de-903cfa58a346.jpg"
     },
     {
+        "artist": "Johannes Voss",
+        "cmc": 3.0,
+        "colorIdentity": [
+            "W"
+        ],
+        "colors": [
+            "W"
+        ],
+        "flavor": "Never alone, never afraid.",
+        "layout": "",
+        "loyalty": null,
+        "mana_cost": "{1}{W}{W}",
+        "multiverseId": null,
+        "name": "Sigrid, God-Favored",
+        "names": null,
+        "number": "29",
+        "power": "2",
+        "rarity": "Rare",
+        "subTypes": [
+            "Human",
+            "Warrior"
+        ],
+        "superTypes": [
+            "Legendary"
+        ],
+        "text": "Flash\nFirst strike, protection from God creatures\nWhen Sigrid, God-Favored enters the battlefield, exile up to one target attacking or blocking creature until Sigird leaves the battlefield.",
+        "toughness": "2",
+        "type": "Legendary Creature - Human Warrior",
+        "types": " Creature ",
+        "url": "https://c1.scryfall.com/file/scryfall-cards/normal/front/a/e/aeec3c1e-e612-4700-888e-300912932552.jpg"
+    },
+    {
+        "artist": "Dibujante Nocturno",
+        "cmc": 3.0,
+        "colorIdentity": [
+            "W"
+        ],
+        "colors": [
+            "W"
+        ],
+        "flavor": null,
+        "layout": "",
+        "loyalty": null,
+        "mana_cost": "{1}{W}{W}",
+        "multiverseId": null,
+        "name": "Sigrid, God-Favored",
+        "names": null,
+        "number": "301",
+        "power": "2",
+        "rarity": "Rare",
+        "subTypes": [
+            "Human",
+            "Warrior"
+        ],
+        "superTypes": [
+            "Legendary"
+        ],
+        "text": "Flash\nFirst strike, protection from God creatures\nWhen Sigrid, God-Favored enters the battlefield, exile up to one target attacking or blocking creature until Sigird leaves the battlefield.",
+        "toughness": "2",
+        "type": "Legendary Creature - Human Warrior",
+        "types": " Creature ",
+        "url": "https://c1.scryfall.com/file/scryfall-cards/normal/front/4/6/4654f703-db16-4221-8ec2-bc6832b4ef83.jpg"
+    },
+    {
         "artist": "Kieran Yanner",
         "cmc": 3.0,
         "colorIdentity": [
@@ -1253,6 +1505,105 @@
         "type": "Legendary Creature - Squirrel",
         "types": " Creature ",
         "url": "https://c1.scryfall.com/file/scryfall-cards/normal/front/0/8/08eb31f3-7686-4d6b-a0e4-5d6ece6fba82.jpg"
+    },
+    {
+        "artist": "Yongjae Choi",
+        "cmc": 2.0,
+        "colorIdentity": [
+            "B",
+            "R"
+        ],
+        "colors": [],
+        "flavor": null,
+        "layout": "modal_dfc",
+        "loyalty": null,
+        "mana_cost": "",
+        "multiverseId": null,
+        "name": "Valki, God of Lies // Tibalt, Cosmic Impostor",
+        "names": null,
+        "number": "114",
+        "power": null,
+        "rarity": "Mythic Rare",
+        "subTypes": [
+            "God",
+            "//",
+            "Legendary",
+            "Planeswalker"
+        ],
+        "superTypes": [
+            "Legendary"
+        ],
+        "text": "",
+        "toughness": null,
+        "type": "Legendary Creature - God // Legendary Planeswalker - Tibalt",
+        "types": " Creature ",
+        "url": "https://c1.scryfall.com/file/scryfall-cards/normal/front/e/a/ea7e4c65-b4c4-4795-9475-3cba71c50ea5.jpg"
+    },
+    {
+        "artist": "Grzegorz Rutkowski",
+        "cmc": 2.0,
+        "colorIdentity": [
+            "B",
+            "R"
+        ],
+        "colors": [],
+        "flavor": null,
+        "layout": "modal_dfc",
+        "loyalty": null,
+        "mana_cost": "",
+        "multiverseId": null,
+        "name": "Valki, God of Lies // Tibalt, Cosmic Impostor",
+        "names": null,
+        "number": "286",
+        "power": null,
+        "rarity": "Mythic Rare",
+        "subTypes": [
+            "God",
+            "//",
+            "Legendary",
+            "Planeswalker"
+        ],
+        "superTypes": [
+            "Legendary"
+        ],
+        "text": "",
+        "toughness": null,
+        "type": "Legendary Creature - God // Legendary Planeswalker - Tibalt",
+        "types": " Creature ",
+        "url": "https://c1.scryfall.com/file/scryfall-cards/normal/front/8/6/86528590-6ff1-4dfa-adf2-6de05ff7b89c.jpg"
+    },
+    {
+        "artist": "Jeff Miracola",
+        "cmc": 2.0,
+        "colorIdentity": [
+            "B",
+            "R"
+        ],
+        "colors": [],
+        "flavor": null,
+        "layout": "modal_dfc",
+        "loyalty": null,
+        "mana_cost": "",
+        "multiverseId": null,
+        "name": "Valki, God of Lies // Tibalt, Cosmic Impostor",
+        "names": null,
+        "number": "308",
+        "power": null,
+        "rarity": "Mythic Rare",
+        "subTypes": [
+            "God",
+            "//",
+            "Legendary",
+            "Planeswalker"
+        ],
+        "superTypes": [
+            "Legendary"
+        ],
+        "text": "",
+        "toughness": null,
+        "type": "Legendary Creature - God // Legendary Planeswalker - Tibalt",
+        "types": " Creature ",
+        "url": "https://c1.scryfall.com/file/scryfall-cards/normal/front/e/3/e3e5c965-a689-4726-b8c2-63b836895939.jpg"
     },
     {
         "artist": "Tran Nguyen",
