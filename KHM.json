@@ -24,7 +24,7 @@
             "Saga"
         ],
         "superTypes": [],
-        "text": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI \u2014 Create a 2/2 blue Shapeshifter creature token with changeling.\nII \u2014 Any number of target Shapeshifters you control have base power and toughness 4/4 until end of turn.\nIII \u2014 Choose up to one target creature or planeswalker. Each creature you control with 4 or greater deals damage equal to its power to that permanent.",
+        "text": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI \u2014 Create a 2/2 blue Shapeshifter creature token with changeling.\nII \u2014 Any number of target Shapeshifters you control have base power and toughness 4/4.\nIII \u2014 Choose up to one target creature or planeswalker. Each creature you control with power 4 or greater deals damage equal to its power to that permanent.",
         "toughness": null,
         "type": "Enchantment - Saga",
         "types": "Enchantment ",
@@ -170,7 +170,7 @@
         "rarity": "Common",
         "subTypes": [],
         "superTypes": [],
-        "text": "\"Demonic Lightning\" deals 4 damage to target creature or planeswalker.",
+        "text": "\"Demonic Lightning\" deals 4 damage to target creature or planeswalker.\nForetell {R} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",
         "toughness": null,
         "type": "Instant",
         "types": "Instant",
@@ -331,13 +331,17 @@
     },
     {
         "artist": "YW Tang",
-        "cmc": 0.0,
-        "colorIdentity": [],
-        "colors": [],
+        "cmc": 2.0,
+        "colorIdentity": [
+            "U"
+        ],
+        "colors": [
+            "U"
+        ],
         "flavor": null,
         "layout": "",
         "loyalty": null,
-        "mana_cost": "1u",
+        "mana_cost": "{1}{U}",
         "multiverseId": null,
         "name": "\"Mystic Reflection\"",
         "names": null,
@@ -376,6 +380,100 @@
         "type": "Artifact - Vehicle",
         "types": "Artifact ",
         "url": "https://c1.scryfall.com/file/scryfall-cards/normal/front/f/5/f572cbb1-49ee-4c95-90a3-82704cf92454.jpg"
+    },
+    {
+        "artist": "Jason Rainville",
+        "cmc": 3.0,
+        "colorIdentity": [
+            "W"
+        ],
+        "colors": [],
+        "flavor": null,
+        "layout": "modal_dfc",
+        "loyalty": null,
+        "mana_cost": "",
+        "multiverseId": null,
+        "name": "\"Reidane, God of Justice\" // \"Reidane's Shield\"",
+        "names": null,
+        "number": "21",
+        "power": null,
+        "rarity": "Rare",
+        "subTypes": [
+            "God",
+            "//",
+            "Legendary",
+            "Artifact"
+        ],
+        "superTypes": [
+            "Legendary"
+        ],
+        "text": "",
+        "toughness": null,
+        "type": "Legendary Creature - God // Legendary Artifact",
+        "types": " Creature ",
+        "url": "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/6/3606519e-5677-4c21-a34e-be195b6669fa.jpg"
+    },
+    {
+        "artist": "",
+        "cmc": 3.0,
+        "colorIdentity": [
+            "W"
+        ],
+        "colors": [],
+        "flavor": null,
+        "layout": "modal_dfc",
+        "loyalty": null,
+        "mana_cost": "",
+        "multiverseId": null,
+        "name": "\"Reidane, God of Justice\" // \"Reidane's Shield\"",
+        "names": null,
+        "number": "300",
+        "power": null,
+        "rarity": "Rare",
+        "subTypes": [
+            "God",
+            "//",
+            "Legendary",
+            "Artifact"
+        ],
+        "superTypes": [
+            "Legendary"
+        ],
+        "text": "",
+        "toughness": null,
+        "type": "Legendary Creature - God // Legendary Artifact",
+        "types": " Creature ",
+        "url": "https://c1.scryfall.com/file/scryfall-cards/normal/front/c/7/c717b484-4b88-4073-a185-71b6085e7324.jpg"
+    },
+    {
+        "artist": "Jason Rainville",
+        "cmc": 4.0,
+        "colorIdentity": [
+            "W"
+        ],
+        "colors": [
+            "W"
+        ],
+        "flavor": null,
+        "layout": "",
+        "loyalty": null,
+        "mana_cost": "{3}{W}",
+        "multiverseId": null,
+        "name": "\"Resolute Valkyrie\"",
+        "names": null,
+        "number": "31",
+        "power": "3",
+        "rarity": "Common",
+        "subTypes": [
+            "Angel",
+            "Warrior"
+        ],
+        "superTypes": [],
+        "text": "You may pay {1}{W} and exile a creature card from your graveyard rather than pay this spell's mana cost.\nFlying",
+        "toughness": "2",
+        "type": "Creature - Angel Warrior",
+        "types": "Creature ",
+        "url": "https://c1.scryfall.com/file/scryfall-cards/normal/front/8/9/89ecb530-e429-4b50-a24c-8437614cf224.jpg"
     },
     {
         "artist": "Mathias Kollros",
@@ -1100,7 +1198,7 @@
         "superTypes": [
             "Snow"
         ],
-        "text": "Choose target creature you control and target creature you don't control. The creature you control gets +1/+0 and gains indestructible until end of turn if you control three or more snow permanents. Then those creatures fight each other. (Each deals damage equal to its power to the other.)",
+        "text": "Choose target creature you control and target creature you don't control. If you control three or more snow permanents, the creature you control gets +1/+0 and gains indestructible until end of turn. Then those creatures fight each other. (Each deals damage equal to its power to the other.)",
         "toughness": null,
         "type": "Snow Sorcery",
         "types": " Sorcery",
@@ -1140,7 +1238,7 @@
         "colors": [
             "B"
         ],
-        "flavor": null,
+        "flavor": "\"Who's next?!\"",
         "layout": "",
         "loyalty": null,
         "mana_cost": "{1}{B}",
@@ -1155,7 +1253,7 @@
             "Berserker"
         ],
         "superTypes": [],
-        "text": "When you cast your second spell each turn, put two +1/+1 counters on \"Fabulous Berserker\". It gains menace until end of turn. (It can't be blocked except by two or more creatures.)",
+        "text": "Whenever you cast your second spell each turn, put two +1/+1 counters on Bloodsky Berserker. It gains menace until end of turn. (It can't be blocked except by two or more creatures.)",
         "toughness": "1",
         "type": "Creature - Human Berserker",
         "types": "Creature ",
@@ -1404,7 +1502,7 @@
         "colors": [
             "R"
         ],
-        "flavor": "What fire giants lack in arcane prowess they make up for with reckless, explosive rage.",
+        "flavor": "What fire giants lack in arcane prowess, they make up for with reckless, explosive rage.",
         "layout": "",
         "loyalty": null,
         "mana_cost": "{5}{R}{R}",
@@ -1493,7 +1591,7 @@
         "colors": [
             "W"
         ],
-        "flavor": "\"Today we are not Beskir or Tuskeri. We must fight as one class, shoulder to shoulder, to defend our rightful home.\"",
+        "flavor": "\"Today we are not Beskir or Tuskeri. We must fight as one clan, shoulder to shoulder, to defend our rightful home!\"",
         "layout": "",
         "loyalty": null,
         "mana_cost": "{W}",
@@ -1662,7 +1760,7 @@
         "colors": [
             "B"
         ],
-        "flavor": null,
+        "flavor": "\"Sven felled the elf with an arrow through the chest, but moments later, the corpse rose with a sneer to fight again.\"\n\u2014*Longbeard Saga*",
         "layout": "",
         "loyalty": null,
         "mana_cost": "{1}{B}",
@@ -2682,7 +2780,7 @@
         "colors": [
             "U"
         ],
-        "flavor": "Some heroes line their coats with yeti fur. More yetis line with bellies with heroes.",
+        "flavor": "Some heroes line their coats with yeti fur. More yetis line their bellies with heroes.",
         "layout": "",
         "loyalty": null,
         "mana_cost": "{3}{U}",
@@ -2728,7 +2826,7 @@
             "Wizard"
         ],
         "superTypes": [],
-        "text": "This spell costs {1} lessto cast if you control a Giant or a Wizard.\nWhen Frostpyre Arcanist enters the battlefield, search your library for an instant or sorcery card with the same name as a card in your graveyard, reveal it, put it into your hand, then shuffle your library.",
+        "text": "This spell costs {1} less to cast if you control a Giant or a Wizard.\nWhen Frostpyre Arcanist enters the battlefield, search your library for an instant or sorcery card with the same name as a card in your graveyard, reveal it, put it into your hand, then shuffle your library.",
         "toughness": "5",
         "type": "Creature - Giant Wizard",
         "types": "Creature ",
@@ -2942,7 +3040,7 @@
         "colors": [
             "G"
         ],
-        "flavor": null,
+        "flavor": "At last the storm's rage subsided, leaving silent, frozen beauty in its wake.",
         "layout": "",
         "loyalty": null,
         "mana_cost": "{2}{G}",
@@ -3114,7 +3212,7 @@
         "colors": [
             "B"
         ],
-        "flavor": null,
+        "flavor": "She was a ragged shadow of her living form, but she had lost none of her deadly prowess.",
         "layout": "",
         "loyalty": null,
         "mana_cost": "{2}{B}",
@@ -3638,7 +3736,7 @@
         "colors": [
             "W"
         ],
-        "flavor": null,
+        "flavor": "\"You'll raid nothing but mist in Istfell.\"",
         "layout": "",
         "loyalty": null,
         "mana_cost": "{2}{W}",
@@ -3887,6 +3985,36 @@
         "url": "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/f/bfc779ac-a418-4cd0-aa73-8d0d91d51f1c.jpg"
     },
     {
+        "artist": "Izzy",
+        "cmc": 5.0,
+        "colorIdentity": [
+            "B"
+        ],
+        "colors": [
+            "B"
+        ],
+        "flavor": "Trapped in a realm of dead flesh and scarce hunting, the ravenous wolves of Karfell follow the Dread Marn to warm game.",
+        "layout": "",
+        "loyalty": null,
+        "mana_cost": "{4}{B}",
+        "multiverseId": null,
+        "name": "Karfell Kennel-Master",
+        "names": null,
+        "number": "101",
+        "power": "4",
+        "rarity": "Common",
+        "subTypes": [
+            "Zombie",
+            "Berserker"
+        ],
+        "superTypes": [],
+        "text": "When Karfell Kennel-Master enters the battlefield, up to two target creatures each get +1/+0 and gain indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)",
+        "toughness": "4",
+        "type": "Creature - Zombie Berserker",
+        "types": "Creature ",
+        "url": "https://c1.scryfall.com/file/scryfall-cards/normal/front/f/6/f670c380-6faa-42ec-ab41-6be8137169b2.jpg"
+    },
+    {
         "artist": "Tyler Jacobson",
         "cmc": 5.0,
         "colorIdentity": [
@@ -4000,7 +4128,7 @@
         "rarity": "Common",
         "subTypes": [],
         "superTypes": [],
-        "text": "Until end of tun, target creature gets +1/+1 for each creature you control and gains trample It must be blocked this turn if able.",
+        "text": "Until end of tun, target creature gets +1/+1 for each creature you control and gains trample. It must be blocked this turn if able.",
         "toughness": null,
         "type": "Sorcery",
         "types": "Sorcery",
@@ -4880,7 +5008,7 @@
         "colors": [
             "B"
         ],
-        "flavor": null,
+        "flavor": "\"King Narfi calls. We go to war!\"",
         "layout": "",
         "loyalty": null,
         "mana_cost": "{1}{B}",
@@ -4907,7 +5035,7 @@
         "colors": [
             "W"
         ],
-        "flavor": null,
+        "flavor": "Halvar united the spirits of all the clans into a single, devastating force.",
         "layout": "",
         "loyalty": null,
         "mana_cost": "{1}{W}",
@@ -5104,7 +5232,7 @@
         "colors": [
             "R"
         ],
-        "flavor": null,
+        "flavor": "\"Boat's burning! Row faster!\"",
         "layout": "",
         "loyalty": null,
         "mana_cost": "{3}{R}",
@@ -5116,7 +5244,7 @@
         "rarity": "Rare",
         "subTypes": [],
         "superTypes": [],
-        "text": "Create X 2/1 red Dwarf creature tokens, where X is the number of Vehicles you control plus the number of Equipments you control. For each of those tokens, you may attach an Equipment you control to it.",
+        "text": "Create X 2/1 red Dwarf creature tokens, where X is the number of Vehicles you control plus the number of Equipment you control. For each of those tokens, you may attach an Equipment you control to it.",
         "toughness": null,
         "type": "Sorcery",
         "types": "Sorcery",
@@ -5143,7 +5271,7 @@
         "rarity": "Rare",
         "subTypes": [],
         "superTypes": [],
-        "text": "Create X 2/1 red Dwarf creature tokens, where X is the number of Vehicles you control plus the number of Equipments you control. For each of those tokens, you may attach an Equipment you control to it.",
+        "text": "Create X 2/1 red Dwarf creature tokens, where X is the number of Vehicles you control plus the number of Equipment you control. For each of those tokens, you may attach an Equipment you control to it.",
         "toughness": null,
         "type": "Sorcery",
         "types": "Sorcery",
@@ -5744,7 +5872,7 @@
             "Warrior"
         ],
         "superTypes": [],
-        "text": "Flying\nWhen Shepherd of the Cosmos enters the battlefield, return target permanent each with converted mana cost 2 or less from your graveyard to the battlefield.\nForetell {3}{w} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",
+        "text": "Flying\nWhen Shepherd of the Cosmos enters the battlefield, return target permanent card with converted mana cost 2 or less from your graveyard to the battlefield.\nForetell {3}{W} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",
         "toughness": "3",
         "type": "Creature - Angel Warrior",
         "types": "Creature ",
@@ -5869,7 +5997,7 @@
             "Cleric"
         ],
         "superTypes": [],
-        "text": "When Skemfar Shadowsage enters the battlefield, choose one \u2014\n\u2022 Each opponent loses X life, where X is the greatest number of creatures you control that share a creature type.\n\u2022 You gain X life, where X is the greatest number of creatures you control that share a creature type.",
+        "text": "When Skemfar Shadowsage enters the battlefield, choose one \u2014\n\u2022 Each opponent loses X life, where X is the greatest number of creatures you control that have a creature type in common.\n\u2022 You gain X life, where X is the greatest number of creatures you control that have a creature type in common.",
         "toughness": "5",
         "type": "Creature - Elf Cleric",
         "types": "Creature ",
@@ -6256,7 +6384,7 @@
             "Aura"
         ],
         "superTypes": [],
-        "text": "Enchant creature\nEnchanted creature gets +2/+2.\n{1}{W}, Exile Spectral Steel from your graveyard: Return target Aura or Equipment card from your graveyard to your hand.",
+        "text": "Enchant creature\nEnchanted creature gets +2/+2.\n{1}{W}, Exile Spectral Steel from your graveyard: Return another target Aura or Equipment card from your graveyard to your hand.",
         "toughness": null,
         "type": "Enchantment - Aura",
         "types": "Enchantment ",
@@ -6534,7 +6662,7 @@
         "colors": [
             "B"
         ],
-        "flavor": "Tegrid, god of fight, never acknowledges her own shadow . . . or its murderous deeds.",
+        "flavor": "Tergrid god of fright, never acknowledges her own shadow . . . or its murderous deeds.",
         "layout": "",
         "loyalty": null,
         "mana_cost": "{3}{B}{B}",
@@ -6670,7 +6798,7 @@
         "rarity": "Rare",
         "subTypes": [],
         "superTypes": [],
-        "text": "The World Tree enters the battlefield tapped.\n{T}: Add {G}.\nAs long as you control six or more lands, lands you control have \"{T}: Add one mana of any color.\"\n{W}{W}{U}{U}{B}{B}{R}{R}{G}{G}, {T}, Sacrifice The World Tree: Search your library for any number of God cards, put them onto the battlefield tapped, then shuffle your library.",
+        "text": "The World Tree enters the battlefield tapped.\n{T}: Add {G}.\nAs long as you control six or more lands, lands you control have \"{T}: Add one mana of any color.\"\n{W}{W}{U}{U}{B}{B}{R}{R}{G}{G}, {T}, Sacrifice The World Tree: Search your library for any number of God cards, put them onto the battlefield, then shuffle your library.",
         "toughness": null,
         "type": "Land",
         "types": "Land",
@@ -7449,7 +7577,7 @@
             "Saga"
         ],
         "superTypes": [],
-        "text": "I \u2014 Destroy target land.\nII \u2014 Return target land card from a graveyard to the battlefield under your control.\nIII \u2014 Choose target opponent. If you control more lands than them, create a number of 4/4 green Troll Warrior creature tokens with trample equal to the difference.",
+        "text": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI \u2014 Destroy target land.\nII \u2014 Put target land card from a graveyard onto the battlefield under your control.\nIII \u2014 Choose target opponent. If they control fewer lands than you, create a number of 4/4 green Troll Warrior creature tokens with trample equal to the difference.",
         "toughness": null,
         "type": "Enchantment - Saga",
         "types": "Enchantment ",
